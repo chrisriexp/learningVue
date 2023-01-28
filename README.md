@@ -1,4 +1,6 @@
 # Setting up a new Vue.js Tailwind project
+> everything that is going to be talked about below can be looked at in more detail at the following 2 links; [Vue.js installation docs](https://www.thisdot.co/blog/getting-started-with-tailwind-in-vue) and [Using Tailwind with Vue.js](https://www.thisdot.co/blog/getting-started-with-tailwind-in-vue)
+
 > npm init vue@latest
 
 > answer no to all questions other than Vue Router - you want to install this so that you can create multiple pages
